@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamsun-B
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on webdesign
 - 📫 How to reach me (Email Id: harthikhamsun@gmail.com)
 
